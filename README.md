@@ -7,4 +7,4 @@
 
 ## 项目截图
 
-![pushbox](./\pushbox.gif)
+![pushbox](./pushbox.gif)
