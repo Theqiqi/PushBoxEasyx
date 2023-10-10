@@ -1,0 +1,6 @@
+﻿  CallBack.cpp
+  PushBox.cpp
+  WinMain.cpp
+D:\test\visual studio\win32api\PushBox\PushBox\WinMain.cpp(73,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating Code...
+  PushBox.vcxproj -> D:\test\visual studio\win32api\PushBox\x64\Debug\PushBox.exe
